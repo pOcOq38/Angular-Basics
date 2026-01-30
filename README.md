@@ -1,6 +1,6 @@
 # Angular First App
 
-This project is the Angular.dev tutorial for building a houses for rent app. The tutorial is found at [https://angular.dev/tutorials/first-app/].
+This project is the [Angular.dev]https://angular.dev/tutorials/first-app/tutorial for building a houses for rent app. 
 
 ## Running the App
  ```bash
